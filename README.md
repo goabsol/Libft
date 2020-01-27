@@ -1,4 +1,0 @@
-# Libft
-# Libft
-# Libft
-# Libft
